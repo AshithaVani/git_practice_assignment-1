@@ -5,7 +5,9 @@ let count=0;
             count++;
         }
     }
+
     if(count==2){ // Condition 
+
         console.log("Yes");
     } else {
         console.log("No");
